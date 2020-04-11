@@ -1,0 +1,7 @@
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadgeChallenge_02\GoldBadgeChallenge_02\obj\Debug\GoldBadgeChallenge_02.csprojAssemblyReference.cache
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadgeChallenge_02\GoldBadgeChallenge_02\obj\Debug\GoldBadgeChallenge_02.csproj.CoreCompileInputs.cache
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadgeChallenge_02\GoldBadgeChallenge_02\bin\Debug\GoldBadgeChallenge_02.exe.config
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadgeChallenge_02\GoldBadgeChallenge_02\bin\Debug\GoldBadgeChallenge_02.exe
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadgeChallenge_02\GoldBadgeChallenge_02\bin\Debug\GoldBadgeChallenge_02.pdb
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadgeChallenge_02\GoldBadgeChallenge_02\obj\Debug\GoldBadgeChallenge_02.exe
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadgeChallenge_02\GoldBadgeChallenge_02\obj\Debug\GoldBadgeChallenge_02.pdb

@@ -1,0 +1,2 @@
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_01_Cafe\ContentRepositoryTests\obj\Debug\ContentRepositoryTests.csprojAssemblyReference.cache
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_01_Cafe\ContentRepositoryTests\obj\Debug\ContentRepositoryTests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\bin\Debug\GoldBadge_01_Cafe.exe.config
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\bin\Debug\GoldBadge_01_Cafe.exe
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\bin\Debug\GoldBadge_01_Cafe.pdb
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\obj\Debug\GoldBadge_01_Cafe.csprojAssemblyReference.cache
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\obj\Debug\GoldBadge_01_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\obj\Debug\GoldBadge_01_Cafe.exe
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\obj\Debug\GoldBadge_01_Cafe.pdb
+C:\Users\kylej\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\obj\Debug\GoldBadge_01_Cafe.csprojAssemblyReference.cache
+C:\Users\kylej\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\obj\Debug\GoldBadge_01_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\kylej\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\obj\Debug\GoldBadge_01_Cafe.exe
+C:\Users\kylej\OneDrive\ElevenFifty\GoldBadge_01_Cafe\GoldBadge_01_Cafe\obj\Debug\GoldBadge_01_Cafe.pdb

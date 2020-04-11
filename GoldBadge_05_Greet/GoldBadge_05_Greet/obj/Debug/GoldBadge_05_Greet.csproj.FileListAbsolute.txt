@@ -1,0 +1,7 @@
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_05_Greet\GoldBadge_05_Greet\bin\Debug\GoldBadge_05_Greet.exe.config
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_05_Greet\GoldBadge_05_Greet\bin\Debug\GoldBadge_05_Greet.exe
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_05_Greet\GoldBadge_05_Greet\bin\Debug\GoldBadge_05_Greet.pdb
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_05_Greet\GoldBadge_05_Greet\obj\Debug\GoldBadge_05_Greet.csprojAssemblyReference.cache
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_05_Greet\GoldBadge_05_Greet\obj\Debug\GoldBadge_05_Greet.csproj.CoreCompileInputs.cache
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_05_Greet\GoldBadge_05_Greet\obj\Debug\GoldBadge_05_Greet.exe
+C:\Users\Kyle Johnson\OneDrive\ElevenFifty\GoldBadge_05_Greet\GoldBadge_05_Greet\obj\Debug\GoldBadge_05_Greet.pdb
